@@ -1,0 +1,46 @@
+{
+  "week-end": [
+    "explicit_anglicism_in_one_sense",
+    "loanword"
+  ],
+  "tester": [
+    "english_origin"
+  ],
+  "smartphone": [
+    "explicit_anglicism_in_one_sense",
+    "loanword",
+    "english_origin"
+  ],
+  "vidéo": [
+    "loanword",
+    "english_origin"
+  ],
+  "streaming": [
+    "explicit_anglicism_in_one_sense",
+    "english_origin"
+  ],
+  "coach": [
+    "explicit_anglicism_in_one_sense",
+    "english_origin"
+  ],
+  "brainstorming": [
+    "explicit_anglicism_in_one_sense",
+    "english_origin"
+  ],
+  "manager": [
+    "explicit_anglicism_in_one_sense",
+    "loanword",
+    "english_origin"
+  ],
+  "partager": [
+    "english_origin"
+  ],
+  "feedback": [
+    "explicit_anglicism_in_one_sense",
+    "english_origin"
+  ],
+  "startup": [
+    "explicit_anglicism_in_one_sense",
+    "loanword"
+  ]
+}
